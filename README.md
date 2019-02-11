@@ -82,4 +82,5 @@ If you are stuck, ask people around you for help, or if you see someone struggli
 **Ask me questions**
 Thats why I'm here. If you don't know what you are doing, why something doesn't work (or does work), or what the person next to you is talking about, call me over. If you do know what you are doing, and why it works, but want to make it work better, also call me over. There is nothing worse for me than a class where no one asks me any questions. Also don't be afraid to email me with questions or to arrange times to meet outside class.
 
+---
 Thanks to [Nathaniel D. Phillips](http://nathanieldphillips.com/) and [Ashley Luckman](https://www.wbs.ac.uk/about/person/ashley-luckman) for setting up and providing the materials for most of the course.
