@@ -1,7 +1,7 @@
 # RcourseSpring2019
-R course for the Spring Semester 2019 for the SWE Master students at the University of Basel
+R course syllabus for the Spring Semester 2019 (SWE Master at the University of Basel).
 
-**Course meeting time**: Tuesday, 14:15 - 15:45, Missionsstrasse 64a, Computerraum 00.010
+**Course meeting time**: Tuesday, 14:15 - 15:45, Missionsstrasse 64a, Computerraum 00.010 <br/>
 **Instructor**: Laura Fontanesi, [laura.fontanesi@unibas.ch](mailto:laura.fontanesi@unibas.ch)
 
 
@@ -12,7 +12,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 
 |Week - Date | Topic | Texbook readings | Assignment (in class) |
 |---------- | ------------------------ | ----------------- | ---------------------- |
-|1 - 20 September | Introduction | None    | [WPA #0](http://rpubs.com/ajluck/wpa0) |
+|1 - 20 September | Introduction | None    | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) |
 
 
 ## Important Links
