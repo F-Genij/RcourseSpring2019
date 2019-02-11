@@ -10,9 +10,22 @@ Your homework for each class period is to actively read the readings for that we
 
 New WPAs and readings will be uploaded weekly, so check back regularly.
 
-|Week - Date | Topic | Texbook readings | Assignment (in class) |
-|---------- | ------------------------ | ----------------- | ---------------------- |
-|1 - 20 September | Introduction | None    | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) |
+| Week | Date | Topic | Texbook readings | Assignment (in class) |
+| ------ | ------ | ------------------------ | ----------------- | ---------------------- |
+| 1 | 18 - 24 February | Introduction | None | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) |
+| 2 | 25 February - 3 March | R basics, scalers and vectors | Chapters [1-4](https://bookdown.org/ndphillips/YaRrr/), [5](https://bookdown.org/ndphillips/YaRrr/scalersvectors.html), [6](https://bookdown.org/ndphillips/YaRrr/vectorfunctions.html) | |
+| 3 | 4 - 10 March | Indexing Vectors | | |
+| 4 | 18 - 24 March | Matrices and Dataframes, Managing data | | |
+| 5 | 25 - 31 March | Dataframe manipulation | | |
+| 6 | 1 - 7 April | Plotting | | |
+| 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | | |
+| 8 | 15 - 21 April | **QUIZ** | | |
+| 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | | |
+| 10 | 29 April - 5 May | Linear regression with `lm()` | | |
+| 11 | 6 - 12 May | Writing Functions and Loops | | |
+| 12 | 13 - 19 May | Final project work | | |
+| 13 | 20 - 26 May | Final project work | | |
+| End | 28 May | Final project work due!!! | | |
 
 
 ## Important Links
