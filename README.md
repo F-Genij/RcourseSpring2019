@@ -25,7 +25,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 11 | 6 - 12 May | Writing Functions and Loops | Chapters [16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | |
 | 12 | 13 - 19 May | Final project work | - | |
 | 13 | 20 - 26 May | Final project work | - | |
-| End | 28 May | Final project work due!!! | - | |
+| End | 28 May | **Final project work due** | - | |
 
 
 ## Important Links
@@ -69,7 +69,7 @@ While I will keep track of how often you submit your WPAs, I will *not* grade th
 In week 8 there will be a quiz. This serves three purposes: 1) It will help me track how well you are doing in the course and whether you need help; 2) It will help you check how well you are grasping the materials; and 3) It will be used as part of your assessment. 
 
 #### Time/Place
-The quiz will take place during class on the 2nd of April (14:15). You will have 1 hour to complete the quiz. If you can not attend class this week you should have contacted me to discuss alternatives.
+The quiz will take place during class on the **16th of April (14:15)**. You will have 1 hour to complete the quiz. If you can not attend class this week you should have contacted me to discuss alternatives.
 
 
 ## Final Project
