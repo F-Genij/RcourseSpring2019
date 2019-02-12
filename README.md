@@ -14,15 +14,15 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | ------ | ------ | ------------------------ | ----------------- | ---------------------- |
 | 1 | 18 - 24 February | Introduction | - | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) |
 | 2 | 25 February - 3 March | R basics, scalers and vectors | Chapters [1-4](https://bookdown.org/ndphillips/YaRrr/), [5](https://bookdown.org/ndphillips/YaRrr/scalersvectors.html), [6](https://bookdown.org/ndphillips/YaRrr/vectorfunctions.html) | |
-| 3 | 4 - 10 March | Indexing Vectors | [Ch 7](https://bookdown.org/ndphillips/YaRrr/vectorindexing.html) | |
-| 4 | 18 - 24 March | Matrices and Dataframes, Managing data | [Ch 8](https://bookdown.org/ndphillips/YaRrr/matricesdataframes.html), [Ch 9](https://bookdown.org/ndphillips/YaRrr/importingdata.html) | |
-| 5 | 25 - 31 March | Dataframe manipulation | [Ch 9](https://bookdown.org/ndphillips/YaRrr/importingdata.html),  [Ch 10](https://bookdown.org/ndphillips/YaRrr/advanceddataframe.html) | |
-| 6 | 1 - 7 April | Plotting | [Ch 11](https://bookdown.org/ndphillips/YaRrr/plotting1.html),  [Ch 12](https://bookdown.org/ndphillips/YaRrr/plotting2.html) | |
-| 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | [Ch 13](https://bookdown.org/ndphillips/YaRrr/htests.html) | |
+| 3 | 4 - 10 March | Indexing Vectors | Chapter [7](https://bookdown.org/ndphillips/YaRrr/vectorindexing.html) | |
+| 4 | 18 - 24 March | Matrices and Dataframes, Managing data | Chapters [8](https://bookdown.org/ndphillips/YaRrr/matricesdataframes.html), [9](https://bookdown.org/ndphillips/YaRrr/importingdata.html) | |
+| 5 | 25 - 31 March | Dataframe manipulation | Chapters [9](https://bookdown.org/ndphillips/YaRrr/importingdata.html),  [10](https://bookdown.org/ndphillips/YaRrr/advanceddataframe.html) | |
+| 6 | 1 - 7 April | Plotting | Chapters [11](https://bookdown.org/ndphillips/YaRrr/plotting1.html),  [12](https://bookdown.org/ndphillips/YaRrr/plotting2.html) | |
+| 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | Chapter [13](https://bookdown.org/ndphillips/YaRrr/htests.html) | |
 | 8 | 15 - 21 April | **QUIZ** | - | |
-| 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | [Ch 14](https://bookdown.org/ndphillips/YaRrr/anova.html) | |
-| 10 | 29 April - 5 May | Linear regression with `lm()` | [Ch 15](https://bookdown.org/ndphillips/YaRrr/regression.html) | |
-| 11 | 6 - 12 May | Writing Functions and Loops | [Ch 16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | |
+| 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | Chapter [14](https://bookdown.org/ndphillips/YaRrr/anova.html) | |
+| 10 | 29 April - 5 May | Linear regression with `lm()` | Chapter [15](https://bookdown.org/ndphillips/YaRrr/regression.html) | |
+| 11 | 6 - 12 May | Writing Functions and Loops | Chapters [16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | |
 | 12 | 13 - 19 May | Final project work | - | |
 | 13 | 20 - 26 May | Final project work | - | |
 | End | 28 May | Final project work due!!! | - | |
