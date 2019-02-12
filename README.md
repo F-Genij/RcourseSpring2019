@@ -16,7 +16,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 2 | 25 February - 3 March | R basics, scalers and vectors | Chapters [1-4](https://bookdown.org/ndphillips/YaRrr/), [5](https://bookdown.org/ndphillips/YaRrr/scalersvectors.html), [6](https://bookdown.org/ndphillips/YaRrr/vectorfunctions.html) | |
 | 3 | 4 - 10 March | Indexing Vectors | Chapter [7](https://bookdown.org/ndphillips/YaRrr/vectorindexing.html) | |
 | 4 | 18 - 24 March | Matrices and Dataframes, Managing data | Chapters [8](https://bookdown.org/ndphillips/YaRrr/matricesdataframes.html), [9](https://bookdown.org/ndphillips/YaRrr/importingdata.html) | |
-| 5 | 25 - 31 March | Dataframe manipulation | Chapters [9](https://bookdown.org/ndphillips/YaRrr/importingdata.html),  [10](https://bookdown.org/ndphillips/YaRrr/advanceddataframe.html) | |
+| 5 | 25 - 31 March | Dataframe manipulation | Chapter [10](https://bookdown.org/ndphillips/YaRrr/advanceddataframe.html) | |
 | 6 | 1 - 7 April | Plotting | Chapters [11](https://bookdown.org/ndphillips/YaRrr/plotting1.html),  [12](https://bookdown.org/ndphillips/YaRrr/plotting2.html) | |
 | 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | Chapter [13](https://bookdown.org/ndphillips/YaRrr/htests.html) | |
 | 8 | 15 - 21 April | **QUIZ** | - | |
