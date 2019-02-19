@@ -56,13 +56,11 @@ You can also find free R courses at [www.coursera.com](https://www.coursera.org/
 
 
 ## Weekly Programming Assignments (WPAs)
-During each class you will work on a series of programming tasks called a **Weekly Programming Assignment (WPA)**. You can do this alone, but I encourage you to discuss and/or work with the people around you. The questions on WPAs will start easy to help remind you of the reading, but end hard in order to push your knowledge of the material. At the end of class, you will email your work on the WPA to me to receive credit.
+During each class, you will work on a series of programming tasks called a **Weekly Programming Assignment (WPA)**. You can do this alone, but I encourage you to discuss and/or work with the people around you. It is however very important that each student's work is his/her own. Do not turn in any assignments that you did not contribute to or do not fully understand.
 
-The WPAs are designed to be challening. For that reason, I do **not** expect you to finish the entire WPA by the end of class. Work hard, ask questions, and complete as many of the problems as you can. The only way to fail your assignment is to not turn it in. You are **not** expected to continue working on WPAs outside of class. However, each WPA will have a checkpoint to help you know whether you are falling behind or not. If you reach the checkpoint by the end of class, then you are doing just fine. If you do not reach the checkpoint, I strongly encourage you to continue working on the assignment outside of class so that you do not fall behind.
+The questions on WPAs will start easy to help remind you of the reading, but end hard in order to push your knowledge of the material. 
 
-While I encourage you to work on and discuss the WPAs with those around you, it is very important that each student's work is his/her own. Do not turn in any assignments that you did not contribute to or do not fully understand.
-
-While I will keep track of how often you submit your WPAs, I will *not* grade them. I will only give you individual feedback if your work looks especially poor, or especially good. Complete answers to WPAs will be posted shortly after each class. It is your responsibility to look over the answers and compare them to your work. Of course, if you have specific questions about the assignment, please email me or come to my office and I will be very happy to help you.
+By the end of the week, you should email your WPA to me to receive credit. While I will keep track of how often you submit your WPAs, I will *not* grade them. You should however try to reply to each of the questions in the assignment in order to get a pass.
 
 
 ## Quiz
@@ -77,11 +75,11 @@ At the end of the course you will complete a final analysis project. In this pro
 
 
 ## Grading
-This is a pass / fail course. Passing the course is not difficult. If you work hard, ask lots of questions, turn in your WPAs, pass the quiz and complete the final analysis project, you'll pass the class. If you never ask questions, habitually fail to turn in your WPAs, don't reach the threshold in the quiz and turn in a poor quality final project, you may fail the course. Attendance at class will be considered when deciding your grade. You can miss up to 2 classes throughout the whole course.
+This is a pass / fail course. Passing the course is not difficult. If you work hard, ask lots of questions, turn in your WPAs, pass the quiz and complete the final analysis project, you'll pass the class. You can miss up to 2 classes throughout the whole course.
 
 
 ## Tips
-Learning R will be challenging, but ultimately rewarding. However it will be a lot easier if you ask questions. Here are the best ways to ask.
+Learning R will be challenging, but ultimately rewarding. However, it will be a lot easier if you ask questions. Here are the best ways to ask.
 
 **Use the help function**
 If you are unsure how a function works or what its doing, type ?functionname into the console (functionname should be the name of the function e.g. ?mean). Every function has documentation, and this command will bring it up. If you don't know the exact function name, you can also type ??thingIamlooking (.e.g. ??mean) to perform a search for related documentation.
@@ -93,7 +91,7 @@ If you have a problem (particularly outside class) Google it. Almost every quest
 If you are stuck, ask people around you for help, or if you see someone struggling, help them out. Ideally I want everyone constantly talking and working together in class. Learning any type of programming is a lot easier when you have people to talk to and share ideas and problems with. 
 
 **Ask me questions**
-Thats why I'm here. If you don't know what you are doing, why something doesn't work (or does work), or what the person next to you is talking about, call me over. If you do know what you are doing, and why it works, but want to make it work better, also call me over. There is nothing worse for me than a class where no one asks me any questions. Also don't be afraid to email me with questions or to arrange times to meet outside class.
+Thats why I'm here. If you don't know what you are doing, why something doesn't work (or does work), or what the person next to you is talking about, call me over. If you do know what you are doing, and why it works, but want to make it work better, also call me over.
 
 ---
 Thanks to [Nathaniel D. Phillips](http://nathanieldphillips.com/) and [Ashley Luckman](https://www.wbs.ac.uk/about/person/ashley-luckman) for setting up and providing the materials for most of the course.
