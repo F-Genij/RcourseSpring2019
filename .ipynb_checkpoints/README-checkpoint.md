@@ -12,7 +12,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 
 | Week | Date | Topic | Texbook readings | Assignment (in class) |
 | ------ | ------ | ------------------------ | ----------------- | ---------------------- |
-| 1 | 18 - 24 February | Introduction | - | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) |
+| 1 | 18 - 24 February | Introduction | - | [WPA #0](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%230_answers.ipynb)|
 | 2 | 25 February - 3 March | R basics, scalers and vectors | Chapters [1-4](https://bookdown.org/ndphillips/YaRrr/), [5](https://bookdown.org/ndphillips/YaRrr/scalersvectors.html), [6](https://bookdown.org/ndphillips/YaRrr/vectorfunctions.html) | [WPA #1](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%231.ipynb)|
 | 3 | 4 - 10 March | Indexing Vectors | Chapter [7](https://bookdown.org/ndphillips/YaRrr/vectorindexing.html) | |
 | 4 | 18 - 24 March | Matrices and Dataframes, Managing data | Chapters [8](https://bookdown.org/ndphillips/YaRrr/matricesdataframes.html), [9](https://bookdown.org/ndphillips/YaRrr/importingdata.html) | |
