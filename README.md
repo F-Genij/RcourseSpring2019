@@ -20,7 +20,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 6 | 1 - 7 April | Plotting | Chapters [11](https://bookdown.org/ndphillips/YaRrr/plotting1.html),  [12](https://bookdown.org/ndphillips/YaRrr/plotting2.html) | [WPA 5](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%235.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%235_answers.ipynb)|
 | 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | Chapter [13](https://bookdown.org/ndphillips/YaRrr/htests.html) |  [WPA 6](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%236.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%236_answers.ipynb)|
 | 8 | 15 - 21 April | **Mid-term QUIZ** | - | [quiz](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/quiz_April16_2019.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/quiz_April16_2019_answers.ipynb)|
-| 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | Chapter [14](https://bookdown.org/ndphillips/YaRrr/anova.html) | |
+| 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | Chapter [14](https://bookdown.org/ndphillips/YaRrr/anova.html) | [WPA 8](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%238.ipynb)|
 | 10 | 29 April - 5 May | Linear regression with `lm()` | Chapter [15](https://bookdown.org/ndphillips/YaRrr/regression.html) | |
 | 11 | 6 - 12 May | Writing Functions and Loops | Chapters [16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | |
 | 12 | 13 - 19 May | Recap importing and cleaning datasets | - | |
