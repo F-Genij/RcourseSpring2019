@@ -19,13 +19,13 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 5 | 25 - 31 March | Dataframe manipulation | Chapter [10](https://bookdown.org/ndphillips/YaRrr/advanceddataframe.html) | [WPA #4](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%234.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%234_answers.ipynb) |
 | 6 | 1 - 7 April | Plotting | Chapters [11](https://bookdown.org/ndphillips/YaRrr/plotting1.html),  [12](https://bookdown.org/ndphillips/YaRrr/plotting2.html) | [WPA 5](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%235.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%235_answers.ipynb)|
 | 7 | 8 - 14 April | 1 and 2 sample Hypothesis tests | Chapter [13](https://bookdown.org/ndphillips/YaRrr/htests.html) |  [WPA 6](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%236.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/WPA%20%236_answers.ipynb)|
-| 8 | 15 - 21 April | **QUIZ** | - | [quiz](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/quiz_April16_2019.ipynb)|
+| 8 | 15 - 21 April | **Mid-term QUIZ** | - | [quiz](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/quiz_April16_2019.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/quiz_April16_2019_answers.ipynb)|
 | 9 | 22 - 28 April | ANOVA with `aov()` and `anova()` | Chapter [14](https://bookdown.org/ndphillips/YaRrr/anova.html) | |
 | 10 | 29 April - 5 May | Linear regression with `lm()` | Chapter [15](https://bookdown.org/ndphillips/YaRrr/regression.html) | |
 | 11 | 6 - 12 May | Writing Functions and Loops | Chapters [16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | |
-| 12 | 13 - 19 May | Final project work | - | |
-| 13 | 20 - 26 May | Final project work | - | |
-| End | 28 May | **Final project work due** | - | |
+| 12 | 13 - 19 May | Recap importing and cleaning datasets | - | |
+| 13 | 20 - 26 May | Recap exploratory and confirmatory analyses | - | |
+| End | 28 May | **Final QUIZ** | - | |
 
 
 ## Important Links
@@ -63,20 +63,20 @@ The questions on WPAs will start easy to help remind you of the reading, but end
 By the end of the week, you should email your WPA to me to receive credit. While I will keep track of how often you submit your WPAs, I will *not* grade them. You should however try to reply to each of the questions in the assignment in order to get a pass.
 
 
-## Quiz
-In week 8 there will be a quiz. This serves three purposes: 1) It will help me track how well you are doing in the course and whether you need help; 2) It will help you check how well you are grasping the materials; and 3) It will be used as part of your assessment. 
+## Mid-term quiz
+In week 8 there will be a quiz. This serves three purposes: 1) It will help me track how well you are doing in the course and whether you need help; 2) It will help you check how well you are grasping the materials. 
 
 #### Time/Place
-The quiz will take place during class on the **16th of April (14:15)**. You will have 1 hour to complete the quiz. If you can not attend class this week you should have contacted me to discuss alternatives.
+The quiz will take place during class on the **16th of April (14:15)**. You will have 1 hour and a half to complete the quiz.
 
+## Final quiz
+In week 14 there will be a final quiz. You have to complete more than 50% of this quiz to pass the course. The final quiz will be similar to the mid-term Quiz (open book, will require loading and manipulating data-frames, plotting to explore the data, and finally a few confirmatory analyses). The 2 weeks before the final quiz will serve as a recap to prepare for the final quiz.
 
-## Final Project
-At the end of the course you will complete a final analysis project. In this project, you will produce a report containing several key analyses from a dataset of your choosing. If you have a specific dataset you would like to analyze (such as from your thesis, or one available from a paper you are interested), you are welcome to use it. However, you will be provided with a list of tasks to complete/questions to answer which you must be able to complete using your dataset. Most Experimental datasets should be appropriate. If you do not have an appropriate dataset, I will assign one to you. I will give you more details about the project later in the course.
-
+#### Time/Place
+The quiz will take place during class on the **28th of May (14:15)**. You will have 1 hour and a half to complete the quiz.
 
 ## Grading
-This is a pass / fail course. Passing the course is not difficult. If you work hard, ask lots of questions, turn in your WPAs, pass the quiz and complete the final analysis project, you'll pass the class. You can miss up to 2 classes throughout the whole course.
-
+This is a pass / fail course. To pass the course, you should turn in your WPAs in time, miss up to 2 classes, and pass the final quiz.
 
 ## Tips
 Learning R will be challenging, but ultimately rewarding. However, it will be a lot easier if you ask questions. Here are the best ways to ask.
