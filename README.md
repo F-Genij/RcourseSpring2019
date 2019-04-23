@@ -64,7 +64,7 @@ By the end of the week, you should email your WPA to me to receive credit. While
 
 
 ## Mid-term quiz
-In week 8 there will be a quiz. This serves three purposes: 1) It will help me track how well you are doing in the course and whether you need help; 2) It will help you check how well you are grasping the materials. 
+In week 8 there will be a quiz. This 1) will help me track how well you are doing in the course and whether you need help; 2) will help you check how well you are grasping the materials. 
 
 #### Time/Place
 The quiz will take place during class on the **16th of April (14:15)**. You will have 1 hour and a half to complete the quiz.
@@ -76,7 +76,7 @@ In week 14 there will be a final quiz. You have to complete more than 50% of thi
 The quiz will take place during class on the **28th of May (14:15)**. You will have 1 hour and a half to complete the quiz.
 
 ## Grading
-This is a pass / fail course. To pass the course, you should turn in your WPAs in time, miss up to 2 classes, and pass the final quiz.
+This is a pass / fail course. To pass the course, you should turn in your WPAs in time, miss not more than 2 classes, and pass the final quiz.
 
 ## Tips
 Learning R will be challenging, but ultimately rewarding. However, it will be a lot easier if you ask questions. Here are the best ways to ask.
