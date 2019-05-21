@@ -24,7 +24,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 10 | 29 April - 5 May | Linear regression with `lm()` | Chapter [15](https://bookdown.org/ndphillips/YaRrr/regression.html) | [WPA 9](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/wpa_9.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/wpa_9_answers.ipynb)|
 | 11 | 6 - 12 May | Writing Functions and Loops | Chapters [16](https://bookdown.org/ndphillips/YaRrr/functions.html), [17](https://bookdown.org/ndphillips/YaRrr/loops.html) | [WPA 10](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/wpa_10.ipynb) [answers](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/wpa_10_answers.ipynb) |
 | 12 | 13 - 19 May | Recap importing and cleaning datasets | - | [Summary](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/Summary.ipynb)|
-| 13 | 20 - 26 May | Recap exploratory and confirmatory analyses | - | |
+| 13 | 20 - 26 May | Recap exploratory and confirmatory analyses | - | [case study](https://github.com/laurafontanesi/RcourseSpring2019/blob/master/notebooks/case_study.ipynb)|
 | End | 28 May | **Final QUIZ** | - | |
 
 
